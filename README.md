@@ -1,6 +1,6 @@
 # ImageBrightnessCalculator
 
-**ImageBrightnessCalculator** is a Windows Forms application built with C# that allows users to calculate the brightness of an image. The application loads an image, processes it, and provides a numerical brightness value that reflects the overall brightness of the image. The app can be useful for various applications like image processing, photography, or data analysis.
+**Image Brightness Calculator** is a Windows Forms application built with C# that allows users to calculate the brightness of an image. The application loads an image, processes it, and provides a numerical brightness value that reflects the overall brightness of the image. The app can be useful for various applications like image processing, photography, or data analysis.
 
 ## Features
 
